@@ -1,10 +1,17 @@
 [
   {
+    "prenom": "Ségolène",
+    "nom": "Albouy",
+    "promo": 2019,
+    "github_page": "https://segolene-albouy.github.io/",
+    "emoji": "🍓"
+  }  
+  {
     "prenom": "Béatrice",
     "nom": "Pascale",
     "promo": 2026,
     "github_page": "https://8beatrice-pascale.github.io/",
-    "matiere_preferee": "Git",
+    "matiere_preferee": "Expressions régulières",
     "emoji": "🌑🌒🌓🌔🌕🌖🌗🌘🌑"
   }
 ]
